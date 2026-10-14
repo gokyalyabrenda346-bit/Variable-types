@@ -11,4 +11,6 @@ public class University {
         University. Lecturer=L;
         University. room=r;
     }
+    public void money(){
+    }
 }
