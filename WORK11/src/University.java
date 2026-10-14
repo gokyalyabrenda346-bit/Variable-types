@@ -4,4 +4,6 @@ public class University {
     int attendance;
     static String Lecturer;
     static  String room;
+    public University(String n,Double s,int a,String L,String r){
+    }
 }
